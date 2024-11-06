@@ -3,7 +3,7 @@ $$P \oplus Q \cong R^{n}$$
 where we say that $Q$ exists
 
 # Corollary - Local Rings
-If $R$ is a [[Local Ring]], finitely generated $M$ is projective iff [[Free Module|Free]]. This follows from [[Nakayama's Lemma]] and being in a [[Exact Sequence#Short Exact Sequence|short exact sequence]]. 
+If $R$ is a [[Local Ring]], finitely generated $M$ is **projective** iff [[Free Module|Free]]. This follows from [[Nakayama's Lemma]] and being in a [[Exact Sequence#Short Exact Sequence|short exact sequence]]. 
 
 ^^ TO BE PROVED LATER 
 
