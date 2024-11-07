@@ -11,3 +11,6 @@ If $R$ is a [[Local Ring]], finitely generated $M$ is **projective** iff [[Free 
 # Projective Dimension
 $$\text{pd}(M) = \inf\{n \;|\; 0 \to P_{n}\to \cdots P_{0}\to M \to 0\}$$
 where it is defined over an [[Exact Sequence]], called a Resolution. 
+
+# Free Resolutions
+For an $R$-module $M$, 
