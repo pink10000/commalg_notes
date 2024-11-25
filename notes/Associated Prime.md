@@ -1,6 +1,6 @@
 Let $R$ be a ring and a let $M$ be an $R-$module. 
 
-A **prime idea**l $P$ of $R$ is **associated** to $M$ if $P$ is the **annihilator** of an element of $M$. The set of all primes associated to $M$ is written 
+A **prime idea**l $P$ of ring $R$ is **associated** to $M$ if $P$ is the **annihilator** of an element of $M$. The set of all primes associated to $M$ is written 
 $$\text{Ass}_{R}M \;\;\text{or}\;\; \text{Ass}M$$
 For $m \in M$,
 
