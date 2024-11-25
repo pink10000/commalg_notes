@@ -5,7 +5,7 @@ If $x \in R$ and $P$ is minimal among primes of $R$ containing $x$, then the hei
 - If $Q \subset R$ is a prime ideal, then the $n$th [[Symbolic Power|symbolic power]] 
  $$Q^{(n)} = \{r \in R | sr \in Q^{n} \text{ for some } s \in R, s \not\in Q\}$$
   is the preimage in $R$ of the $n$th power of the localized ideal $Q_{Q}$ in $R_{Q}$. The elements outside $Q$ are non-zerodivisors mod $Q^{(n)}$ and on localization we get
-  $$(Q^{n})_{Q} = (Q_{Q})^{n}$$
+$$(Q^{n})_{Q} = (Q_{Q})^{n}$$
 #### Proof:
 We shall show that if $Q$ is any prime ideal with $Q \subsetneq P,$ then $R_{Q}$ has dimension $0$, so height $Q = 0$. This shows that height of $P \leq 1$.
 
@@ -26,5 +26,3 @@ $$x \not\in Q \implies a \in Q^{(n)}$$
 From this we see that
 $$Q^{(n)} = (x)Q^{(n)} + Q^{(n+1)}$$
 Since $x \in P$, [[Nakayama's Lemma]], Corollary 4.8a, implies $Q^{(n)} = Q^{(n+1)}$. A second application of [[Nakayama's Lemma]], this time in $R_{Q}$, yields $(Q_{Q})^{n} = 0$, so $R_{Q}$ has dimension $0$ as claimed.
-
-
